@@ -1,0 +1,37 @@
+{
+  "name": "Blackhole",
+  "description": "Blackhole theme port kinda yeah okay",
+  "authors": [
+    {
+      "name": "Jizzy",
+      "id": "337532865778679808"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#C576F6"
+    ],
+    "TEXT_LINK": [
+      "#880ED4"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "C576F6"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "880ED4"
+    ],
+  },
+  "rawColors": {
+    "PRIMARY_500": "#FFFFFF",
+    "PRIMARY_230": "#C576F6",
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/595301812085587975/1166514545246871793/star.png?ex=654ac454&is=65384f54&hm=f41affd9b5f20f00484fe8e6ce10ba179aa5820fc8ef3dd748b57f5dd5cd67cd&",
+    "alpha": 0
+  }
+}
