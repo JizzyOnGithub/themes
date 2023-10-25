@@ -1,6 +1,6 @@
 {
-    "name": "Blackhole",
-    "description": "Blackhole theme port kinda yeah okay",
+    "name": "Hoshizora",
+    "description": "Inspired by a theme on BD called blackhole.",
     "authors": [
         {
             "name": "Jizzy",
@@ -10,46 +10,76 @@
     "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FFFFFF"
+            "#9677F1"
         ],
         "HEADER_SECONDARY": [
-            "#C576F6"
+            "#6B5B95"
         ],
         "TEXT_LINK": [
-            "#880ED4"
+            "#4F86C6"
+        ],
+        "TEXT_NORMAL": [
+            "#B7B7FF"
+        ],
+        "TEXT_MUTED": [
+            "#73748B"
         ],
         "INTERACTIVE_NORMAL": [
-            "#C576F6"
+            "#9E88FF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#880ED4"
+            "#6241A0"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#6959C0"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#C576F6"
+            "#1E1E2D"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1B1C26"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#22243C"
         ],
         "BACKGROUND_ACCENT": [
-            "#C576F6"
+            "#3F3E57"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#141420"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0F0F18"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#181A25"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#10111A"
+        ],
+        "TEXT_DANGER": [
+            "#AD0000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#C576F6"
+            "#32324A"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#2E2E40"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#2E2E40"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#880ED4"
+            "#393A4E"
         ],
         "CHANNEL_ICON": [
-            "#C576F6"
+            "#B5B5FF"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#C576F6"
+            "#A7A7ED"
         ]
     },
     "rawColors": {
@@ -59,6 +89,6 @@
     "background": {
         "blur": 0,
         "url": "https://cdn.discordapp.com/attachments/595301812085587975/1166514545246871793/star.png?ex=654ac454&is=65384f54&hm=f41affd9b5f20f00484fe8e6ce10ba179aa5820fc8ef3dd748b57f5dd5cd67cd&",
-        "alpha": "0"
+        "alpha": 0
     }
 }
